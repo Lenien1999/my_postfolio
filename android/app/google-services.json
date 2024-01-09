@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683383537366",
+    "project_id": "aminu-postfolio",
+    "storage_bucket": "aminu-postfolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683383537366:android:c09eea3cf07b8e52869377",
+        "android_client_info": {
+          "package_name": "com.example.aminu_olamide_postfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWI_0rVyb7s3dp9JY1sRPgXm1TFIzCNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
